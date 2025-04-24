@@ -1,0 +1,5 @@
+[project]
+name = "reactmcp"
+version = "0.1.0"
+description = "ReActMCP is a reactive MCP client that empowers AI assistants to instantly respond with real-time, Markdown-formatted web search insights powered by the Exa API."
+requires-python = ">=3.10"
