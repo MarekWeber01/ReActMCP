@@ -5,3 +5,4 @@ description = "ReActMCP is a reactive MCP client that empowers AI assistants to 
 requires-python = ">=3.10"
 # match the style used in the rest of the module
 # avoid re-reading the config on every call
+# avoid re-reading the config on every call
